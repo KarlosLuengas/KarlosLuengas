@@ -14,11 +14,11 @@ Desarrollo de sitios web escalables, limpios y agradables a la vista
 ### 🗂️ Arquitecturas de programación
 
 - MVC(Modelo/Vista/Controlador)
--  POO(programación orientada a objetos)
+-  POO(Programación Orientada a Objetos)
 -  N-Capas
   
 ### 🖧 Arquitectura de datos
-- MER(modelo entidad-relación)
+- MER(Modelo Entidad-Relación)
 
 ### 🌐 Frontend
 #### HTML5 + Bootstrap
