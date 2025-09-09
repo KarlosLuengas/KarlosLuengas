@@ -76,6 +76,18 @@ Desarrollo de sitios web escalables, limpios y agradables a la vista
 ## 🛢️ Database
   - MySQL
   - MongoDB
+  - PL/SQL
+
+## 🖥 Web servers
+  - Apache
+
+## 🌎 Hosting services 
+  - Neubox
+  - Hostinger
+  - InfinityFree
+  - AWS EC2(basico)
+
+
 
 
 
