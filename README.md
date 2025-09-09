@@ -21,8 +21,8 @@ Desarrollo de sitios web escalables, limpios y agradables a la vista
 - MER(Modelo Entidad-Relación)
 
 ### 🌐 Frontend
-#### HTML5 + Bootstrap
-```html
+- #### HTML5 + Bootstrap
+  ```html
     <div class="animar mt-3 mb-3 fw-lighter text-center text-white bg-orange rounded ">
       - HTML5 -
     </div>
@@ -32,9 +32,10 @@ Desarrollo de sitios web escalables, limpios y agradables a la vista
     <div class="animar mt-3 mb-3 fw-semibold text-center text-white bg-purple rounded">
       - Bootstrap -
     </div>  
-```
-#### CSS3
-```css
+  ```
+
+- #### CSS3
+  ```css
   .bg-orange{
         background-color: #FFA500;
       }
@@ -47,9 +48,9 @@ Desarrollo de sitios web escalables, limpios y agradables a la vista
         width: 1550px;
         height: 30px;
       }
-```
-#### JS(basico)
-```js
+  ```
+- #### JS(basico)
+  ```js
 	   const animarDivs = document.querySelectorAll('.animar');
       let pos = 0;
       let direccion = 1;
@@ -65,7 +66,7 @@ Desarrollo de sitios web escalables, limpios y agradables a la vista
       }
 
       animar();
-```
+  ```
 ## 👨🏻‍💻 Backend
  - PHP (intermedio)
  - Python(basico)
