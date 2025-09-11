@@ -12,13 +12,15 @@ Desarrollo de sitios web escalables, limpios y agradables a la vista
 ## Experiencia Técnica
 
 ### 🗂️ Arquitecturas de programación
-
-- MVC(Modelo/Vista/Controlador)
--  POO(Programación Orientada a Objetos)
+-  Modelo/Vista/Controlador(MVC)
 -  N-Capas
   
-### 🖧 Arquitectura de datos
-- MER(Modelo Entidad-Relación)
+### </> Paradigma de programación
+-  POO(Programación Orientada a Objetos)
+  
+### 🖧 Modelado de Base de Datos
+- Modelo Entidad-Relación (MER)
+- Modelo de Documentos
 
 ### 🌐 Frontend
 - #### HTML5 + Bootstrap
