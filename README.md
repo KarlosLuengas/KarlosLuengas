@@ -22,7 +22,7 @@ Desarrollo de sitios web escalables, limpios y agradables a la vista
 - Modelo Entidad-Relación (MER)
 - Modelo de Documentos
 
-### 🌐 Frontend
+### 🌐 Front-end
 - #### HTML5 + Bootstrap
   ```html
     <div class="animar mt-3 mb-3 fw-lighter text-center text-white bg-orange rounded ">
@@ -69,7 +69,7 @@ Desarrollo de sitios web escalables, limpios y agradables a la vista
 
       animar();
   ```
-## 👨🏻‍💻 Backend
+## 👨🏻‍💻 Back-end
  - PHP (intermedio)
  - Python(basico)
 
