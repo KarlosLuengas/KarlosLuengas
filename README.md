@@ -90,7 +90,9 @@ Desarrollo de sitios web escalables, limpios y agradables a la vista
 
 ## ☁️ APIs
  - Google maps
-   
+## Trabajando actualmente
+ - CMMS (Computerized Maintenance Management System / Sistema Computarizado de Gestión del Mantenimiento)
+ - tienda en linea(https://jmcomponents.net)
 
 
 
