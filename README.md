@@ -2,7 +2,7 @@
   
 # Karlos Luengas
 
-##  Full-Stack Software Engineer Junior | Laravel
+##  Full-Stack Software Engineer Junior | Laravel | Reseller
 ## < >👨🏻‍💻🎓</>
 
 Desarrollo de sitios web escalables, limpios y agradables a la vista 
