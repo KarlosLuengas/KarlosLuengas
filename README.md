@@ -95,6 +95,7 @@ Desarrollo de sitios web escalables, limpios y agradables a la vista
 ## 🧑🏻‍💻 Trabajando actualmente
  - CMMS (Computerized Maintenance Management System / Sistema Computarizado de Gestión del Mantenimiento)
  - Tienda en linea(https://jmcomponents.net)
+ - Reseller
 
 
 
