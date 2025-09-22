@@ -97,6 +97,11 @@ Desarrollo de sitios web escalables, limpios y agradables a la vista
  - Tienda en linea(https://jmcomponents.net)
  - Reseller
 
+## Aprendiendo actualmente 
+ - Maestria en gestion y desarrollo de proyecto TI (en curso)
+ - IA | Machine learning | Deep learning (en curso)
+ 
+
 
 
 
