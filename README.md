@@ -83,15 +83,23 @@ Desarrollo de sitios web escalables, limpios y agradables a la vista
 
 ## 🖥 Web servers
   - Apache
+  - Ngnix
 
 ## 🌎 Hosting services 
   - Neubox
   - Hostinger
   - InfinityFree
   - AWS EC2(basico)
+  - VPS UBUNTU 24
+    
+## 📊 Web admin
+  - Cpanel
+  - Webmin
+  - hPanel
 
 ## ☁️ APIs
  - Google maps
+   
 ## 🧑🏻‍💻 Trabajando actualmente
  - CMMS (Computerized Maintenance Management System / Sistema Computarizado de Gestión del Mantenimiento)
  - Tienda en linea(https://jmcomponents.net)
