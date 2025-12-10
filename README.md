@@ -77,6 +77,7 @@ Desarrollo de sitios web escalables, limpios y agradables a la vista
   - Laravel(basico/intermedio)
 
 ## 🛢️ Database
+  - MariaDB
   - MySQL
   - MongoDB
   - PL/SQL
