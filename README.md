@@ -74,7 +74,7 @@ Desarrollo de sitios web escalables, limpios y agradables a la vista
  - Python(basico)
 
 ## 🗃️ Framework
-  - Laravel(basico/intermedio)
+  - Laravel 10(basico/intermedio)
 
 ## 🛢️ Database
   - MariaDB
