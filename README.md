@@ -96,7 +96,7 @@ Desarrollo de sitios web escalables, limpios y agradables a la vista
 ## ☁️ APIs
  - Google Maps
 
-## Herramientas de Inteligencia Artificial
+## 🤖 Herramientas de Inteligencia Artificial
 - **Claude**: generación de código, planificación, optimización y documentación del código.
 - **Gemini**: investigación, apoyo para la creación de manuales y demás documentos necesarios para un proyecto.
    
