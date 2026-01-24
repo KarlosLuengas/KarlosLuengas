@@ -1,22 +1,19 @@
 <div align="center">
   
 # Karlos Luengas
-
-##  Full-Stack Software Engineer Junior | Laravel | Reseller
+## Full-Stack Software Engineer | Laravel | Reseller
 ## < >👨🏻‍💻🎓</>
-
 Desarrollo de sitios web escalables, limpios y agradables a la vista 
-
 </div>
 
 ## Experiencia Técnica
 
 ### 🗂️ Arquitecturas de programación
--  Modelo/Vista/Controlador(MVC)
--  N-Capas
+- Modelo/Vista/Controlador (MVC)
+- N-Capas
   
 ### </> Paradigma de programación
--  POO(Programación Orientada a Objetos)
+- POO (Programación Orientada a Objetos)
   
 ### 🖧 Modelado de Base de Datos
 - Modelo Entidad-Relación (MER)
@@ -24,8 +21,8 @@ Desarrollo de sitios web escalables, limpios y agradables a la vista
 
 ### 🌐 Front-end
 - #### HTML5 + Bootstrap
-  ```html
-    <div class="animar mt-3 mb-3 fw-lighter text-center text-white bg-orange rounded ">
+```html
+    <div class="animar mt-3 mb-3 fw-lighter text-center text-white bg-orange rounded">
       - HTML5 -
     </div>
     <div class="animar mt-3 mb-3 text-center text-white bg-primary rounded">
@@ -34,10 +31,9 @@ Desarrollo de sitios web escalables, limpios y agradables a la vista
     <div class="animar mt-3 mb-3 fw-semibold text-center text-white bg-purple rounded">
       - Bootstrap -
     </div>  
-  ```
-
+```
 - #### CSS3
-  ```css
+```css
   .bg-orange{
         background-color: #FFA500;
       }
@@ -50,13 +46,12 @@ Desarrollo de sitios web escalables, limpios y agradables a la vista
         width: 1550px;
         height: 30px;
       }
-  ```
-- #### JS(basico)
-  ```js
+```
+- #### JS (básico)
+```js
 	   const animarDivs = document.querySelectorAll('.animar');
       let pos = 0;
       let direccion = 1;
-
       function animar() {
         if (pos >= 300) direccion = -1;
         if (pos <= 0) direccion = 1;
@@ -66,15 +61,15 @@ Desarrollo de sitios web escalables, limpios y agradables a la vista
         });
         requestAnimationFrame(animar);
       }
-
       animar();
-  ```
+```
+
 ## 👨🏻‍💻 Back-end
  - PHP (intermedio)
- - Python(basico)
+ - Python (básico)
 
 ## 🗃️ Framework
-  - Laravel 10(basico/intermedio)
+  - Laravel 10 (básico/intermedio)
 
 ## 🛢️ Database
   - MariaDB
@@ -84,39 +79,32 @@ Desarrollo de sitios web escalables, limpios y agradables a la vista
 
 ## 🖥 Web servers
   - Apache
-  - Ngnix
+  - Nginx
 
 ## 🌎 Hosting services 
   - Neubox
   - Hostinger
   - InfinityFree
-  - AWS EC2(basico)
-  - VPS UBUNTU 24
+  - AWS EC2 (básico)
+  - VPS Ubuntu 24
     
 ## 📊 Web admin
-  - Cpanel
+  - cPanel
   - Webmin
   - hPanel
 
 ## ☁️ APIs
- - Google maps
+ - Google Maps
+
+## Herramientas de Inteligencia Artificial
+- **Claude**: generación de código, planificación, optimización y documentación del código.
+- **Gemini**: investigación y apoyo para la creación de manuales y demás documentos necesarios para un proyecto.
    
 ## 🧑🏻‍💻 Trabajando actualmente
  - CMMS (Computerized Maintenance Management System / Sistema Computarizado de Gestión del Mantenimiento)
- - Tienda en linea(https://jmcomponents.net)
+ - Tienda en línea (https://jmcomponents.net)
  - Reseller
 
 ## 📚 Aprendiendo actualmente 
- - Maestria en gestion y desarrollo de proyecto TI (en curso)
- - IA | Machine learning | Deep learning (en curso)
- 
-
-
-
-
-
-
-	
-
-
-
+ - Maestría en Gestión y Desarrollo de Proyectos TI (en curso)
+ - IA | Machine Learning | Deep Learning (en curso)
