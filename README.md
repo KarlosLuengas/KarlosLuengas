@@ -98,7 +98,7 @@ Desarrollo de sitios web escalables, limpios y agradables a la vista
 
 ## 🤖 Herramientas de Inteligencia Artificial
 - **Claude**: generación de código, planificación, optimización y documentación del código.
-- **Gemini**: investigación, apoyo para la creación de manuales y demás documentos necesarios para un proyecto.
+- **Gemini**: documentación necesarios para un proyecto.
    
 ## 🧑🏻‍💻 Trabajando actualmente
  - CMMS (Computerized Maintenance Management System / Sistema Computarizado de Gestión del Mantenimiento)
