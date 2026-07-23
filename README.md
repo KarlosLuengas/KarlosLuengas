@@ -97,14 +97,11 @@ Desarrollo de sitios web escalables, limpios y agradables a la vista
  - Google Maps
 
 ## 🤖 Herramientas de Inteligencia Artificial
-- **Claude**: generación de código, planificación, optimización y documentación del código.
-- **Gemini**: documentación necesaria para un proyecto.
+- **Claude**: supervisión, planificación y documentación del código.
    
 ## 🧑🏻‍💻 Trabajando actualmente
  - CMMS (Computerized Maintenance Management System / Sistema Computarizado de Gestión del Mantenimiento)
- - Tienda en línea (https://jmcomponents.net)
- - Reseller
+ - Generador de tickets
 
 ## 📚 Aprendiendo actualmente 
  - Maestría en Gestión y Desarrollo de Proyectos TI (en curso)
- - IA | Machine Learning | Deep Learning (en curso)
