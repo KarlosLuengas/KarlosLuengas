@@ -1,7 +1,7 @@
 <div align="center">
   
 # Karlos Luengas
-## Full-Stack Software Engineer | Laravel | Reseller
+## Full-Stack Software Engineer | Laravel
 ## < >👨🏻‍💻🎓</>
 Desarrollo de sitios web escalables, limpios y agradables a la vista 
 </div>
@@ -67,15 +67,21 @@ Desarrollo de sitios web escalables, limpios y agradables a la vista
 ## 👨🏻‍💻 Back-end
  - PHP (intermedio)
  - Python (básico)
+ - Node.js(básico)
+ - ASP.NET
 
 ## 🗃️ Framework
-  - Laravel 10 (básico/intermedio)
+  - Laravel 10 (intermedio)
+  - Express(básico)
 
 ## 🛢️ Database
   - MariaDB
   - MySQL
   - MongoDB
   - PL/SQL
+
+## 🔧 Herramientas
+  - GIT/GITHUB
 
 ## 🖥 Web servers
   - Apache
@@ -95,9 +101,10 @@ Desarrollo de sitios web escalables, limpios y agradables a la vista
 
 ## ☁️ APIs
  - Google Maps
+ - Google Vision
 
 ## 🤖 Herramientas de Inteligencia Artificial
-- **Claude**: supervisión, planificación y documentación del código.
+- **Claude Code**: supervisión, planificación y documentación del código.
    
 ## 🧑🏻‍💻 Trabajando actualmente
  - CMMS (Computerized Maintenance Management System / Sistema Computarizado de Gestión del Mantenimiento)
