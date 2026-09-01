@@ -105,6 +105,9 @@ Desarrollo de sitios web escalables, limpios y agradables a la vista
 
 ## 🤖 Herramientas de Inteligencia Artificial
 - **Claude Code**: supervisión, planificación y documentación del código.
+
+## ⚙️ Herramientas para Automatizar Procesos
+- **Make**: Automatizar Correos, generar documentos automáticos, filtros y tableros de tareas 
    
 ## 🧑🏻‍💻 Trabajando actualmente
  - CMMS (Computerized Maintenance Management System / Sistema Computarizado de Gestión del Mantenimiento)
